@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ggstv
-- 👀 Interested into learn about .py / .js 
-- 🌱 I’m currently learning js!
-- Completely inexperient with real jobs, but i'm looking hard to learn about.
-- gustavonasc27@gmail.com
+- Opa, tudo bem? Meu nome é Gustavo Fraga do Nascimento :D
+- Pratico Python a meses e estou aprendendo sobre JS, HTML e CSS.
+- Não tenho experiência com trabalho profissional.(Estou procurando um!)
+- Tem uma branch que tem alguns exercícios que já fiz em Python.
+- Se quiser me contatar, gustavonasc27@gmail.com
 
 
